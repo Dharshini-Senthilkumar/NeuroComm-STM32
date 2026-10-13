@@ -33,5 +33,6 @@ Embedded C (register-level), Keil uVision, STM32CubeProgrammer
 
 ## Limitation and Future Scope
 The input is a potentiometer, not a real EEG signal, and messages use
-fixed thresholds. Future work: integrate an EEG acquisition module,
+fixed thresholds. 
+Future work: integrate an EEG acquisition module,
 filter the signal, and add a trained classifier.
